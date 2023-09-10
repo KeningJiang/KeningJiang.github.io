@@ -2,24 +2,27 @@
 title: "Kening Jiang"
 image: "KeningJiang.jpg"
 links:
-  - label: Email
+  - label: '`r fontawesome::fa("envelope")` Email'
     url: "kjiang7@jhmi.edu"
-  - label: Affiliation
+  - label: '`r fontawesome::fa("graduation-cap")` Affiliation'
     url: "https://jhucochlearcenter.org/kening-jiang-mhs.html"
-  - label: Google Scholar
+  - label: '`r fontawesome::fa("google")` Google Scholar'
     url: "https://scholar.google.com/citations?hl=en&user=J64T4xYAAAAJ&view_op=list_works&authuser=1&sortby=pubdate"
-  - label: GitHub
-    url: "https://github.com/KeningJiang"
 
 output:
   postcards::trestles
 ---
- 
-## Bio
+
+```{r load_packages, message=FALSE, warning=FALSE, include=FALSE} 
+library(fontawesome)
+library(emojifont)
+```
+
+## Bio 📖
 
 Kening Jiang is a 3rd year PhD student in Epidemiology of Aging. She received her MHS degree in Epidemiology from Johns Hopkins Bloomberg School of Public Health and previously worked as a biostatistician at the Johns Hopkins Cochlear Center for Hearing and Public Health. She is interested in studying the underlying mechanisms of cognitive aging, especially how potentially modifiable factors including sensory loss and sleep disturbances contribute to cognitive decline and dementia among older adults.
 
-## Education
+## Education 👩‍🎓
 
 **Johns Hopkins Bloomberg School of Public Health** | Baltimore, MD
 
@@ -29,7 +32,7 @@ PhD student in Epidemiology | August 2022 - Present
 
 MHS in Epidemiology | August 2018 - May 2020
 
-## Experience
+## Experience 📚
 
 **Johns Hopkins Cochlear Center for Hearing and Public Health** | Baltimore, MD 
 

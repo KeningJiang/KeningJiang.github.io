@@ -3,7 +3,7 @@ title: "Kening Jiang"
 image: "KeningJiang.jpg"
 links:
   - label: '`r fontawesome::fa("envelope")` Email'
-    url: "kjiang7@jhmi.edu"
+    url: "maitlo:kjiang7@jhmi.edu"
   - label: '`r fontawesome::fa("graduation-cap")` Affiliation'
     url: "https://jhucochlearcenter.org/kening-jiang-mhs.html"
   - label: '`r fontawesome::fa("google")` Google Scholar'
